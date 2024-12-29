@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xhelletter
-- 👀 I’m interested in software development & engineering
+- 👀 I’m interested in software development & automation
 - 🌱 I’m currently learning node.js, python, java & c++
 - 💞️ I’m looking to collaborate on ur mom
 <!---
